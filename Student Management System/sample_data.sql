@@ -1,7 +1,7 @@
 INSERT INTO Students (name, age, gender, department) VALUES
-('Alice Johnson', 20, 'Female', 'Computer Science'),
-('Bob Smith', 22, 'Male', 'Electrical Engineering'),
-('Charlie Brown', 21, 'Male', 'Mechanical Engineering');
+('Bob Mahesh', 20, 'Female', 'Computer Science'),
+('Arjun A', 22, 'Male', 'Electrical Engineering'),
+('Bos Prabha', 21, 'Male', 'Mechanical Engineering');
 
 INSERT INTO Courses (course_name, credits) VALUES
 ('Database Systems', 4),
